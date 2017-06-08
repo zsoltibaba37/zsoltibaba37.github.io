@@ -2,7 +2,7 @@ title: Learn Python
 description: Tanuljunk Pythont
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
