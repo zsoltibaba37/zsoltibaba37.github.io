@@ -1,0 +1,8 @@
+title: Learn Python
+description: Tanuljunk Pythont
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
