@@ -1,2 +1,3 @@
 # zsoltibaba37.github.io
-Learn Python
+A tanuljunk pythont oldal jelenleg fejleszté alatt.
+Igyekszem kitalálni, hogy is nézzen ki stb...
