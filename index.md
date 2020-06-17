@@ -1,12 +1,12 @@
 # Welcome
 
-Az oldal jelenleg tesztelés és fejlesztés alatt van !
+This site is under construction. :-)
 
 ### What we need
 [Python 3](https://www.python.org/downloads/)
 
-**
-- Néhány python `code` :
+***
+A Few Python `code` :
 
 * [SambaAuditLogSearch](https://github.com/zsoltibaba37/SambaAuditLogSearch)
 * [mkrepo](https://github.com/zsoltibaba37/mkrepo)
