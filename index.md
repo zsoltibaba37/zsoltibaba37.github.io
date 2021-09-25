@@ -1,6 +1,6 @@
 # Welcome
 
-This site is under construction. :-)
+I try and I try
 
 ### What we need
 [Python 3](https://www.python.org/downloads/)
@@ -8,12 +8,12 @@ This site is under construction. :-)
 ***
 A Few Python `code` :
 
+* [getCovid](https://github.com/zsoltibaba37/getCovid)
+* [diskstate](https://github.com/zsoltibaba37/diskstate)
 * [SambaAuditLogSearch](https://github.com/zsoltibaba37/SambaAuditLogSearch)
-* [mkrepo](https://github.com/zsoltibaba37/mkrepo)
-* [Weight sheet and rod](https://github.com/zsoltibaba37/weight/)
-
+* [Canon_Control-Board](https://github.com/zsoltibaba37/Canon_Control_board) 
+  [Youtube](https://www.youtube.com/watch?v=oQq4LDEDkZE)
 
 ***
-
 ### Contact
 * [GitHub](https://github.com/zsoltibaba37?tab=repositories)
