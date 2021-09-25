@@ -1,3 +1,4 @@
-# zsoltibaba37.github.io
-A tanuljunk pythont oldal jelenleg fejleszté alatt.
-Igyekszem kitalálni, hogy is nézzen ki stb...
+## Let's learn Python 
+
+Once in a lifetime I want to do this page.
+
