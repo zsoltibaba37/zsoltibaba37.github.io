@@ -3,8 +3,8 @@
 I try and I try
 
 ### What we need
-[Python 3](https://www.python.org/downloads/)
-[g++](http://ftp.de.debian.org/debian/pool/main/g/gcc-defaults/)
+* [Python 3](https://www.python.org/downloads/)
+* [g++](http://ftp.de.debian.org/debian/pool/main/g/gcc-defaults/)
 
 ***
 
